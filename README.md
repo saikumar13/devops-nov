@@ -1,4 +1,5 @@
 # devops-nov
 nov batch
 Hello DevOps Good Morning !!
-Happy Diwali!
+Happy Diwal!
+Bye Devops
